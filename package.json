@@ -48,7 +48,7 @@
     "docs:serve": "cd docs && bundle exec jekyll serve --config _config_dev.yml"
   },
   "dependencies": {
-    "bootstrap": "^5.3.0-alpha1"
+    "bootstrap": "^5.3.0-alpha3"
   },
   "devDependencies": {
     "@ronilaukkarinen/gulp-stylelint": "^14.0.5",
@@ -64,7 +64,7 @@
     "npm-run-all": "^4.1.5",
     "postcss": "^8.4.6",
     "rtlcss": "^3.5.0",
-    "sass": "^1.49.8",
+    "sass": "^1.60.0",
     "stylelint": "^14.5.2",
     "stylelint-config-twbs-bootstrap": "^3.0.1"
   }
